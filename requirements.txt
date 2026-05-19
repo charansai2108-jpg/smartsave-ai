@@ -1,0 +1,7 @@
+streamlit
+groq
+langchain-huggingface
+langchain-community
+faiss-cpu
+sentence-transformers
+ngrok, if running through google colab or VS Code
